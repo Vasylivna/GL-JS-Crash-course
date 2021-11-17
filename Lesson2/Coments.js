@@ -5,10 +5,12 @@ const sum = a + b;
 console.log(a + b);
 
 console.log("sum of a and b is equal to", a + b);
+
 //also sum variable can be printed 
 console.log("sum of a and b is equal to", sum);
 
 //info 
 console.info("I can print some information");
+
 //error
 console.error("I can inform about an error");
