@@ -7,6 +7,6 @@ const config = {
     }
   }
   
-  const { tests, extra } = config;
+  const { version, extra } = config;
   
-  console.log(tests, extra);
+  console.log(version, extra);

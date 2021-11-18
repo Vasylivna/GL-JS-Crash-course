@@ -1,10 +1,12 @@
 const data = [
+    'hello',
     'Games',
     {
       tests: 'e2e',
-    }
+    },
+    1
   ]
   
-  const [ moduleName, extra ] = data;
+  const [3] [4] = data;
   
-  console.log(moduleName, extra);
+  console.log([3, 4]);
