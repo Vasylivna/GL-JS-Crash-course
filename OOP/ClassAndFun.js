@@ -12,4 +12,4 @@ function Cat(name, color) {
   
   const Tom = new Cat("Tom", "grey");
   const Simon = new Cat("Simon", "red");
-console.log(Cat);
+console.log(Tom.sound());

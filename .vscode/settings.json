@@ -1,0 +1,8 @@
+{
+    "NATS.LinkedTestSuites": [
+        {
+            "name": "__default__",
+            "members": []
+        }
+    ]
+}
